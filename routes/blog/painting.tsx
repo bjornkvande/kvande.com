@@ -229,7 +229,7 @@ export default function Blog() {
       </S>
 
       <S>
-        <H3>23. october 2025 - and there was finally light and shadow</H3>
+        <H3>23. october 2025 - and then there was finally light and shadow</H3>
         <p>
           A few days earlier I took my mountain bike to the woods between San Romolo and
           Bajardo. The forest road was just filled with leafs and the light was amazing. I
