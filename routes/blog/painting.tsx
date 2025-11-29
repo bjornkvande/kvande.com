@@ -233,10 +233,10 @@ export default function Blog() {
         <p>
           A few days earlier I took my mountain bike to the woods between San Romolo and
           Bajardo. The forest road was just filled with leafs and the light was amazing. I
-          took a photo of my bike and thought I could have another go at the light. This
-          time it worked. Super happy! The bike also looked ok. And oh, do you see the
-          small shadow underneath the wheels? Without those tiny shadows, the bike was
-          floating in the air. You can`t fool the brain.
+          took a photo of my bike and thought I could have another go at capturing the
+          light. This time it worked. Super happy! The bike also looked ok. And oh, do you
+          see the small shadow underneath the wheels? Without those tiny shadows, the bike
+          was floating in the air. You can`t fool the brain.
         </p>
         <I src='/paintings/bike.jpg' />
       </S>
