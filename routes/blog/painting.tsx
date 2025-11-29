@@ -7,7 +7,7 @@ export default function Blog() {
       <S>
         <P>
           In July of 2025 I had a heated discussion with a retired arts dealer. I asked my
-          typical questions about "who decides what is art?" and "who desides how much an
+          typical questions about "who decides what is art?" and "who decides how much an
           art piece costs?". The art dealer`s response was "I do that!"
         </P>
 
