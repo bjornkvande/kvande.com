@@ -200,9 +200,9 @@ export default function Blog() {
       <S>
         <H3>8. october 2025 - coloring was a mistake</H3>
         <p>
-          I added a the missing piece and a couple of trees in the top right corner and
-          was very happy with the trees (I can do trees now). However, painting the scene
-          was a total mistake. It looked a lot better as a black and white pen drawing.
+          I added a missing piece and a couple of trees in the top right corner and was
+          very happy with the trees (I can do trees now). However, painting the scene was
+          a total mistake. It looked a lot better as a black and white pen drawing.
         </p>
         <I src='/paintings/menton_colors.jpg' />
       </S>
