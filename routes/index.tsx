@@ -13,11 +13,17 @@ export default function Home() {
       <Image src='/coding/programmerspet.jpg' />
 
       <div className='sm:text-lg leading-7 sm:leading-9 py-8'>
-        Hei, Bjørn Jarle heter jeg. Jeg bygger ting med kode. Her finner du en samling av
-        innlegg om koding, tanker, idéer, og frustrasjoner som farer gjennom hodet på en
-        utvikler som har vært med siden Commodore 64 sin storhetstid. Jeg elsker faget
-        mitt, jobber ustanselig for å bli bedre, er godt ute på spekteret og er stadig
-        sosialt forvirret. Men å programmere det er jeg ganske god på.
+        Bjørn Jarle is my name. I build stuff with code. Here you will find a collection
+        of blog entries about coding, thoughts, ideas, and frustrations going through the
+        mind of a developer who started with Basic and machine code on the Commodore 64
+        back in 1985. I love my field of work, and I constantly strive to improve.{' '}
+        <a href='https://www.kode24.no/artikkel/fikk-asperger-diagnose-som-51-aring-en-superkraft/197704'>
+          I`m on the spectrum
+        </a>, socially confused, but a master at pretending I`m not. Programming on the
+        other hand, I am pretty good at. Oh, and I also{' '}
+        <a href='blog/painting'>
+          started drawing and painting at the age of 53
+        </a>.
       </div>
 
       <BlogEntry

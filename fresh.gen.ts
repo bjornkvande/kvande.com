@@ -10,6 +10,7 @@ import * as $blog_automatisert_testing from './routes/blog/automatisert_testing.
 import * as $blog_codeaholic from './routes/blog/codeaholic.tsx';
 import * as $blog_gold_or_led from './routes/blog/gold_or_led.tsx';
 import * as $blog_invester_i_produktet from './routes/blog/invester-i-produktet.tsx';
+import * as $blog_painting from './routes/blog/painting.tsx';
 import * as $blog_skiguide from './routes/blog/skiguide.tsx';
 import * as $index from './routes/index.tsx';
 
@@ -25,6 +26,7 @@ const manifest = {
     './routes/blog/codeaholic.tsx': $blog_codeaholic,
     './routes/blog/gold_or_led.tsx': $blog_gold_or_led,
     './routes/blog/invester-i-produktet.tsx': $blog_invester_i_produktet,
+    './routes/blog/painting.tsx': $blog_painting,
     './routes/blog/skiguide.tsx': $blog_skiguide,
     './routes/index.tsx': $index,
   },

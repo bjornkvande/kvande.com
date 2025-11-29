@@ -4,7 +4,7 @@ export function BlogPage(
   props: {
     title: string;
     ingress?: string;
-    date: string;
+    date?: string;
     children: JSX.Element | JSX.Element[];
   },
 ) {
@@ -22,12 +22,11 @@ export function BlogPage(
           className="shadow w-8 h-8 rounded-full mr-3"
           src="https://res.cloudinary.com/trailguide-as/image/upload/c_limit,w_400/v1/bjorn/bjorn-portrait-2"
         />
-        Bjørn Jarle, {props.date}
+        Bjørn Jarle
+        {props.date && (`, ` + props.date)}
       </div>
 
-      <div>
-        {props.children}
-      </div>
+      {props.children}
 
       <footer class="clear-both text-gray-600 text-xs sm:text-sm p-2 sm:p-8">
         <div class="text-center mt-12">
