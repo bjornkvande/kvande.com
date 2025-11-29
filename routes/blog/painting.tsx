@@ -1,10 +1,9 @@
 import { BlogPage } from '../../components/BlogPage.tsx';
-import { Image } from '../../components/Image.tsx';
 
 export default function Blog() {
   return (
     <BlogPage title='L`orso disegna'>
-      <h2>Can I become an artist?</h2>
+      <h1>Can I become an artist?</h1>
       <S>
         <P>
           In July of 2025 I had a heated discussion with a retired arts dealer. I asked my
@@ -18,7 +17,12 @@ export default function Blog() {
       </S>
 
       <S>
-        <H4>23. august 2025 - first attempt</H4>
+        <H2>August, September and October, 2025</H2>
+        <P>
+          Buildings, perspective, details, shadow and light.
+        </P>
+
+        <H3>23. august 2025 - first attempt</H3>
         <p>
           After thinking about this painting thing for a few weeks, and seeing my
           girlfriend draw a little, I thought I would give it a go. Around the same time,
@@ -34,7 +38,7 @@ export default function Blog() {
       </S>
 
       <S>
-        <H4>23. august 2025 - second attempt</H4>
+        <H3>23. august 2025 - second attempt</H3>
         <p>
           Wanted to finish one, so I tested out painting a door from our village Perinaldo
           which I managed to finish. Tested out some shadows and splattering of paint.
@@ -44,7 +48,7 @@ export default function Blog() {
       </S>
 
       <S>
-        <H4>26. august 2025 - finishing the funicular in Mondovi</H4>
+        <H3>26. august 2025 - finishing the funicular in Mondovi</H3>
         <p>
           I had another attempt at the funicular in Mondovi with a focus on perspective. I
           did not think the houses looked as good this time, and I left too much ink on
@@ -55,7 +59,7 @@ export default function Blog() {
       </S>
 
       <S>
-        <H4>27. august 2025 - painting our house</H4>
+        <H3>27. august 2025 - painting our house</H3>
         <p>
           A nice late summer day and I thought I would have another go at perspective
           drawing. Got the wall, window and porch dialed in, but the stair case, wheel
@@ -66,7 +70,7 @@ export default function Blog() {
       </S>
 
       <S>
-        <H4>1. september 2025 - centro storico in Perinaldo</H4>
+        <H3>1. september 2025 - centro storico in Perinaldo</H3>
         <p>
           Off to Italy and Perinaldo. Our village has a ton of fantastic buildings and it
           should not be hard to find anything to paint. This is from the church piazza in
@@ -78,7 +82,7 @@ export default function Blog() {
       </S>
 
       <S>
-        <H4>2. september 2025 - shit did I make this?!</H4>
+        <H3>2. september 2025 - shit did I make this?!</H3>
         <p>
           This is the moment where I thought "shit, did I make this???" - perspective,
           light, shadow, cold, warm, buildings and a figure are in place. And this was the
@@ -91,7 +95,7 @@ export default function Blog() {
       </S>
 
       <S>
-        <H4>5. september 2025 - view from the bar</H4>
+        <H3>5. september 2025 - view from the bar</H3>
         <p>
           I wanted to test out a quick pen drawing without sketching with a pencil first.
           Perspective is totally off and I left too much ink on the paper, but it has some
@@ -102,7 +106,7 @@ export default function Blog() {
       </S>
 
       <S>
-        <H4>6. september 2025 - perspectives gotten right</H4>
+        <H3>6. september 2025 - perspectives gotten right</H3>
         <p>
           After messing up the perspectives in the drawing the day before, I thought I
           would try and do it properly. I sat in place and made a pencil sketch. Took a
@@ -127,7 +131,7 @@ export default function Blog() {
       </S>
 
       <S>
-        <H4>10. september 2025 - a more cartoony style with perspectives off</H4>
+        <H3>10. september 2025 - a more cartoony style with perspectives off</H3>
         <p>
           I wanted to test out painting a building in a little more cartoonish style with
           the perspectives deliberately a little bit off. I was very happy with this, but
@@ -138,7 +142,7 @@ export default function Blog() {
       </S>
 
       <S>
-        <H4>17. september 2025 - messing up light and shadow</H4>
+        <H3>17. september 2025 - messing up light and shadow</H3>
         <p>
           This scene had such great light, shadow and colors, but I totally missed the
           mark on this one. I also need to learn how to paint plants. But the coloring of
@@ -148,7 +152,7 @@ export default function Blog() {
       </S>
 
       <S>
-        <H4>22. september 2025 - roof tiles, people, shadows and reflections</H4>
+        <H3>22. september 2025 - roof tiles, people, shadows and reflections</H3>
         <p>
           Allright! I was super happy with this one. I got the shadows more or less
           correct, painted roof tiles for an hour (crap, a lot), got the human figures
@@ -161,7 +165,7 @@ export default function Blog() {
       </S>
 
       <S>
-        <H4>28. september 2025 - more perspectives and structure on walls</H4>
+        <H3>28. september 2025 - more perspectives and structure on walls</H3>
         <p>
           Wanted to see if I could make the walls of buildings look more organic with some
           structure. Quite happy with the walls, the perspective of the staircase, and the
@@ -172,7 +176,7 @@ export default function Blog() {
       </S>
 
       <S>
-        <H4>7. october 2025 - bigger format and more details</H4>
+        <H3>7. october 2025 - bigger format and more details</H3>
         <p>
           Moving away from my sketchbook I wanted to check out bigger formats and more
           details. This is an unfinished sketch of the old town of Menton, France. Quite
@@ -182,7 +186,7 @@ export default function Blog() {
       </S>
 
       <S>
-        <H4>8. october 2025 - coloring was a mistake</H4>
+        <H3>8. october 2025 - coloring was a mistake</H3>
         <p>
           I added a the missing piece and a couple of trees in the top right corner and
           was very happy with the trees (I can do trees now). However, painting the scene
@@ -192,7 +196,7 @@ export default function Blog() {
       </S>
 
       <S>
-        <H4>9. october 2025 - painting a leaf in 30 minutes</H4>
+        <H3>9. october 2025 - painting a leaf in 30 minutes</H3>
         <p>
           After spending several days with all those details from Menton, and not being
           happy after coloring it, I picked up a leaf from the street and painted it.
@@ -203,7 +207,7 @@ export default function Blog() {
       </S>
 
       <S>
-        <H4>12. october 2025 - messing up light and shadow again!</H4>
+        <H3>12. october 2025 - messing up light and shadow again!</H3>
         <p>
           Inspired by the leaf painting a few days earlier and the amazing autumn colors,
           I wanted to have another go at trying to capture light and shadow. And I totally
@@ -213,7 +217,7 @@ export default function Blog() {
       </S>
 
       <S>
-        <H4>23. october 2025 - and there was finally light and shadow</H4>
+        <H3>23. october 2025 - and there was finally light and shadow</H3>
         <p>
           A few days earlier I took my mountain bike to the woods between San Romolo and
           Bajardo. The forest road was just filled with leafs and the light was amazing. I
@@ -244,6 +248,10 @@ function I({ src }) {
   );
 }
 
-function H4({ children }) {
-  return <h4 className='my-2 text-lg font-semibold'>{children}</h4>;
+function H2({ children }) {
+  return <h2 className='my-3 text-2xl'>{children}</h2>;
+}
+
+function H3({ children }) {
+  return <h3 className='my-2 text-lg font-semibold'>{children}</h3>;
 }
