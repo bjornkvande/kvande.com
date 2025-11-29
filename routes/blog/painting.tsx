@@ -3,7 +3,7 @@ import { BlogPage } from '../../components/BlogPage.tsx';
 export default function Blog() {
   return (
     <BlogPage title='L`orso disegna'>
-      <h1>Can I become an artist?</h1>
+      <H1>Can I become an artist?</H1>
       <S>
         <P>
           In July of 2025 I had a heated discussion with a retired arts dealer. I asked my
@@ -17,7 +17,7 @@ export default function Blog() {
       </S>
 
       <S>
-        <H2>August, September and October, 2025</H2>
+        <H2>August - October, 2025</H2>
         <P>
           Buildings, perspective, details, shadow and light.
         </P>
@@ -268,10 +268,13 @@ function T({ src }) {
   );
 }
 
+function H1({ children }) {
+  return <h1 className='my-3 text-3xl'>{children}</h1>;
+}
 function H2({ children }) {
-  return <h2 className='my-3 text-2xl'>{children}</h2>;
+  return <h2 className='my-3 text-xl md:text-2xl'>{children}</h2>;
 }
 
 function H3({ children }) {
-  return <h3 className='my-2 text-lg font-semibold'>{children}</h3>;
+  return <h3 className='my-2 text-base md:text-lg font-semibold'>{children}</h3>;
 }
