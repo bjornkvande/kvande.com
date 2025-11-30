@@ -41,10 +41,10 @@ export default function Blog() {
           posts from the Portuguese artist{' '}
           <a href='https://www.instagram.com/_francis.co/'>Francisco Fonseca</a>{' '}
           started appearing in my social feed, and I got inspired by his paintings of old
-          buildings. I bought a water color set and a few pens and I had a picture I took
+          buildings. I bought a water color set and a few pens. I found a picture I took
           from Mondovi in Piemonte earlier in the summer with lots of buildings on it.
-          During the process, I got too impatient and wanted to see how it looked with
-          colors, so I never got to finish it. But I liked the style.
+          During the process of sketching out the scene, I got too impatient and wanted to
+          see how it looked with colors. I never got to finish it, but I liked the style.
         </p>
         <I src='/paintings/first_attempt.jpg' />
       </S>
@@ -52,9 +52,10 @@ export default function Blog() {
       <S>
         <H3>23. august 2025 - second attempt</H3>
         <p>
-          Wanted to finish one, so I tested out painting a door from our village Perinaldo
-          which I managed to finish. Tested out some shadows and splattering of paint.
-          Perspective is totally off, but it just took a few minutes to do. I was hooked.
+          I wanted to finish a painting, so I tested out painting a door from our village
+          Perinaldo which I managed to finish. Tested adding some shadows and splatterings
+          of paint. The perspective was totally off, but the entire process took just a
+          few minutes. I was hooked.
         </p>
         <I src='/paintings/door_perinaldo.jpg' />
       </S>
@@ -62,10 +63,10 @@ export default function Blog() {
       <S>
         <H3>26. august 2025 - finishing the funicular in Mondovi</H3>
         <p>
-          I had another attempt at the funicular in Mondovi with a focus on perspective. I
-          did not think the houses looked as good this time, and I left too much ink on
-          the paper. The perspective was also totally off in places. Very limited shadow
-          work.
+          I had another attempt at the scene from Mondovi with a focus on perspectives
+          this time. The buildings did not end up looking as good this time, and I left
+          too much ink on the paper. The perspective was also totally off in places. Very
+          limited shadow work.
         </p>
         <I src='/paintings/mondovi.jpg' />
       </S>
@@ -73,10 +74,10 @@ export default function Blog() {
       <S>
         <H3>27. august 2025 - painting our house</H3>
         <p>
-          A nice late summer day and I thought I would have another go at perspective
-          drawing. Got the wall, window and porch dialed in, but the stair case, wheel
-          barrel and rake was off. I was very happy with the tree. Tried some more
-          shading. Starting to look like illustrations in a childrens book.
+          It was a nice late summer day and I thought I would have another go at
+          perspective drawing. I got the wall, window and porch dialed in, but the stair
+          case, wheel barrel and rake was off. I was very happy with the tree. Tried some
+          more shading. Starting to look like illustrations in a childrens book now.
         </p>
         <I src='/paintings/rotneim.jpg' />
       </S>
@@ -84,11 +85,11 @@ export default function Blog() {
       <S>
         <H3>1. september 2025 - centro storico in Perinaldo</H3>
         <p>
-          Off to Italy and Perinaldo. Our village has a ton of fantastic buildings and it
-          should not be hard to find anything to paint. This is from the church piazza in
-          centro storico. My first attempt at the typical italian building with green
-          shutters and the ligurian color palette. Quite happy with the almost invisible
-          shading and perspective that gave the building some depth.
+          Off to Italy and Perinaldo. Our village has a ton of fantastic old buildings so
+          it should not be hard to find anything to paint. This is from the church piazza
+          in the historic center of the town. My first attempt at the typical italian
+          building with green shutters and the ligurian color palette. Quite happy with
+          the almost invisible shading and perspective that gave the building some depth.
         </p>
         <I src='/paintings/perinaldo_castello.jpg' />
       </S>
@@ -96,12 +97,14 @@ export default function Blog() {
       <S>
         <H3>2. september 2025 - shit did I make this?!</H3>
         <p>
-          This is the moment where I thought "shit, did I make this???" - perspective,
-          light, shadow, cold, warm, buildings and a figure are in place. And this was the
-          moment I understood how difficult painting people is. Your brain is so
-          incredibly good at recognizing people, and if the proportions or the balance is
-          just a tiny bit off, you will see the error immediately. The balance is off. I
-          also used a white pen on top of the finished painting for highlights.
+          This is the moment where I thought "shit, did I make this???" - the perspective,
+          light, shadows, cold tones, warm tones, buildings and a human figure -
+          everything suddenly came together. This was also the moment I understood how
+          difficult painting people is. Your brain is so incredibly good at recognizing
+          people, and if the proportions or the balance is just a tiny bit off, you will
+          see the error immediately. In this case, the balance of the figure is a little
+          off. To finish off the painting I used a white pen for highlights and
+          reflections.
         </p>
         <I src='/paintings/last_bottle.jpg' />
       </S>
@@ -109,10 +112,10 @@ export default function Blog() {
       <S>
         <H3>5. september 2025 - view from the bar</H3>
         <p>
-          I wanted to test out a quick pen drawing without sketching with a pencil first.
-          Perspective is totally off and I left too much ink on the paper, but it has some
-          kind of naive quality to it anyway. It makes me happy looking at it. It is also
-          the view from my bar.
+          I wanted to test out making a quick pen drawing without sketching with a pencil
+          first. The perspective is totally off and I left too much ink on the paper. But
+          it has some kind of naive quality to it anyway. It makes me happy looking at it.
+          It is also the view from our village bar that I see every morning and afternoon.
         </p>
         <I src='/paintings/view_from_bar.jpg' />
       </S>
@@ -123,23 +126,9 @@ export default function Blog() {
           After messing up the perspectives in the drawing the day before, I thought I
           would try and do it properly. I sat in place and made a pencil sketch. Took a
           picture, and went home to finish it. Very happy with the perspective and the
-          shadows in the windows, but the other shadows I messed up.
+          shadows in the window sills. The other shadows I messed up.
         </p>
         <I src='/paintings/perinaldo_entrance.jpg' />
-        <div className='flex max-w-2xl justify-around'>
-          <image
-            className='w-3/12 rounded shadow'
-            src='/paintings/perinaldo_entrance_1.jpg'
-          />
-          <image
-            className='w-3/12 rounded shadow'
-            src='/paintings/perinaldo_entrance_2.jpg'
-          />
-          <image
-            className='w-3/12 rounded shadow'
-            src='/paintings/perinaldo_entrance_3.jpg'
-          />
-        </div>
       </S>
 
       <S>
@@ -148,7 +137,7 @@ export default function Blog() {
           I wanted to test out painting a building in a little more cartoonish style with
           the perspectives deliberately a little bit off. I was very happy with this, but
           the coloring is not too good - you can clearly see the brush strokes. I would
-          like it to be a little more random.
+          like the coloring to appear a little more random and organic.
         </p>
         <I src='/paintings/cartoon_style.jpg' />
       </S>
@@ -168,10 +157,10 @@ export default function Blog() {
         <p>
           Allright! I was super happy with this one. I got the shadows more or less
           correct, painted roof tiles for an hour (crap, a lot), got the human figures
-          placed into the correct perspective with ok balance and proportions. The ground
-          was wet, and I tried to paint reflections onto the ground - not too bad. I also
-          used a white marker for highlights and reflections. The bike was off - have to
-          get back to that.
+          placed into the correct perspective with an ok balance and proportions. The
+          ground was wet, and I tried to paint reflections onto the ground - not too bad.
+          I also used a white marker for highlights and reflections. The bike did not look
+          good - have to get back to that.
         </p>
         <I src='/paintings/kranj.jpg' />
       </S>
@@ -179,10 +168,11 @@ export default function Blog() {
       <S>
         <H3>28. september 2025 - more perspectives and structure on walls</H3>
         <p>
-          Wanted to see if I could make the walls of buildings look more organic with some
-          structure. Quite happy with the walls, the perspective of the staircase, and the
-          shadows on the shutters and the green door. But again put too much ink on the
-          page. I need to get a thinner pen, a brown one.
+          I wanted to see if I could make the walls look more organic with some structure.
+          Quite happy with how the wall coloring and structure turned on. The perspective
+          of the staircase and the shadows on the shutters and the green door was also
+          nice. But again, I put too much ink on the page. I need to get a thinner pen, a
+          brown one.
         </p>
         <I src='/paintings/wall_structure.jpg' />
       </S>
@@ -191,8 +181,9 @@ export default function Blog() {
         <H3>7. october 2025 - bigger format and more details</H3>
         <p>
           Moving away from my sketchbook I wanted to check out bigger formats and more
-          details. This is an unfinished sketch of the old town of Menton, France. Quite
-          happy with the level of details and the perspective.
+          detail. This is an unfinished sketch of the old town of Menton, France. I was
+          happy with the level of detail and the perspective of the buildings. I messed up
+          the front of the church, but it is not really noticable.
         </p>
         <I src='/paintings/menton.jpg' />
       </S>
@@ -201,7 +192,7 @@ export default function Blog() {
         <H3>8. october 2025 - coloring was a mistake</H3>
         <p>
           I added a missing piece and a couple of trees in the top right corner and was
-          very happy with the trees (I can do trees now). However, painting the scene was
+          very happy with the trees (I can do trees now). However, coloring the scene was
           a total mistake. It looked a lot better as a black and white pen drawing.
         </p>
         <I src='/paintings/menton_colors.jpg' />
@@ -212,8 +203,8 @@ export default function Blog() {
         <p>
           After spending several days with all those details from Menton, and not being
           happy after coloring it, I picked up a leaf from the street and painted it.
-          Added a shadow for more depth. It took about 30 minutes. Again I thought "did I
-          make this???"
+          Added a shadow for depth. It took about 30 minutes. Again I thought "did I make
+          this???"
         </p>
         <I src='/paintings/leaf.jpg' />
       </S>
@@ -221,9 +212,9 @@ export default function Blog() {
       <S>
         <H3>12. october 2025 - messing up light and shadow again!</H3>
         <p>
-          Inspired by the leaf painting a few days earlier and the amazing autumn colors,
-          I wanted to have another go at trying to capture light and shadow. And I totally
-          messed it up again. Yuk! But I liked the tree.
+          Inspired by the painting of the leaf a few days earlier and the amazing autumn
+          colors, I wanted to have another go at trying to capture light and shadow. And I
+          totally messed it up again. Yuk! But I liked the tree.
         </p>
         <I src='/paintings/sanromolo.jpg' />
       </S>
@@ -232,11 +223,12 @@ export default function Blog() {
         <H3>23. october 2025 - and then there was finally light and shadow</H3>
         <p>
           A few days earlier I took my mountain bike to the woods between San Romolo and
-          Bajardo. The forest road was just filled with leafs and the light was amazing. I
-          took a photo of my bike and thought I could have another go at capturing the
-          light. This time it worked. Super happy! The bike also looked ok. And oh, do you
-          see the small shadow underneath the wheels? Without those tiny shadows, the bike
-          was floating in the air. You can`t fool the brain.
+          Bajardo. The forest road was totally covered with brown leafs and the light was
+          amazing. I took a photo of my bike and thought I would have another go at
+          capturing the light in a painting. This time it worked. Super happy! The bike
+          also looked ok. And oh, do you see the small shadow underneath the wheels?
+          Without those tiny shadows, the bike was just floating in the air. You can`t
+          fool the brain.
         </p>
         <I src='/paintings/bike.jpg' />
       </S>
