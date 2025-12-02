@@ -220,6 +220,17 @@ export default function Blog() {
       </S>
 
       <S>
+        <H3>13. october 2025 - making shadows using alkohol markers</H3>
+        <p>
+          I had bought some alcohol markers that I had not tried out yet. So I made a
+          quick pen sketch of a building with some awnings on it and well defined shadows.
+          That worked out quite well. You really do not notice the shadows being there,
+          the image just feels right. Your brain is convinced.
+        </p>
+        <I src='/paintings/markiser.jpg' />
+      </S>
+
+      <S>
         <H3>23. october 2025 - and then there was finally light and shadow</H3>
         <p>
           A few days earlier I took my mountain bike to the woods between San Romolo and
