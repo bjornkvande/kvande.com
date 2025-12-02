@@ -220,7 +220,7 @@ export default function Blog() {
       </S>
 
       <S>
-        <H3>13. october 2025 - making shadows using alkohol markers</H3>
+        <H3>13. october 2025 - making shadows using alcohol markers</H3>
         <p>
           I had bought some alcohol markers that I had not tried out yet. So I made a
           quick pen sketch of a building with some awnings on it and well defined shadows.
