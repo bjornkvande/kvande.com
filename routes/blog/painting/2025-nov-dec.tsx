@@ -109,7 +109,7 @@ export default function Blog() {
           the glasses turned out. I was afraid I would mess up the hair (with alcohol
           markers you can not fix mistakes very easily) and have it not look blond, but it
           ended up nice and fluffy. The shadows under the nose and chin also worked out. I
-          dade a couple of mistakes but you have to look for them yourself. Pencil and
+          made a couple of mistakes but you have to look for them yourself. Pencil and
           alcohol markers with a dash of white marker at the end (glasses and shirt
           button).
         </p>
