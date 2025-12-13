@@ -34,6 +34,7 @@ export default function Blog() {
             <T src='/paintings/selfie.jpg' />
             <T src='/paintings/stian.jpg' />
             <T src='/paintings/bassista.jpg' />
+            <T src='/paintings/sketch.jpg' />
           </div>
         </a>
       </S>

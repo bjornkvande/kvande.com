@@ -18,6 +18,7 @@ export default function Blog() {
           <T src='/paintings/selfie.jpg' />
           <T src='/paintings/stian.jpg' />
           <T src='/paintings/bassista.jpg' />
+          <T src='/paintings/sketch.jpg' />
         </div>
       </S>
 
@@ -129,6 +130,17 @@ export default function Blog() {
           I like the shoes. The bass might look small, but it was a hand-built small bass.
         </p>
         <I src='/paintings/bassista.jpg' />
+      </S>
+
+      <S>
+        <H3>Practice</H3>
+        <p>
+          Sometimes I try out ideas in my small sketch pad and practice painting people
+          figures. In the first attempt on the left I totally messed up the human figure
+          so I had another go only at the person. This time it worked well. Good
+          proportions, balance, and shadow/reflections.
+        </p>
+        <I src='/paintings/sketch.jpg' />
       </S>
     </BlogPage>
   );
