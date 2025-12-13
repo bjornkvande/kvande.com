@@ -1,21 +1,8 @@
-import { BlogPage } from '../../components/BlogPage.tsx';
+import { BlogPage } from '../../../components/BlogPage.tsx';
 
 export default function Blog() {
   return (
     <BlogPage title='L`orso disegna'>
-      <H1>Can I become an artist?</H1>
-      <S>
-        <P>
-          In July of 2025 I had a heated discussion with a retired arts dealer. I asked my
-          typical questions about "who decides what is art?" and "who decides how much an
-          art piece costs?". The art dealer`s response was "I do that!"
-        </P>
-
-        <P>
-          The answer provoked and frustrated me.
-        </P>
-      </S>
-
       <S>
         <H2>August - October, 2025</H2>
         <P>

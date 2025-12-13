@@ -10,7 +10,9 @@ import * as $blog_automatisert_testing from './routes/blog/automatisert_testing.
 import * as $blog_codeaholic from './routes/blog/codeaholic.tsx';
 import * as $blog_gold_or_led from './routes/blog/gold_or_led.tsx';
 import * as $blog_invester_i_produktet from './routes/blog/invester-i-produktet.tsx';
-import * as $blog_painting from './routes/blog/painting.tsx';
+import * as $blog_painting_2025_aug_oct from './routes/blog/painting/2025-aug-oct.tsx';
+import * as $blog_painting_2025_nov_dec from './routes/blog/painting/2025-nov-dec.tsx';
+import * as $blog_painting_index from './routes/blog/painting/index.tsx';
 import * as $blog_skiguide from './routes/blog/skiguide.tsx';
 import * as $index from './routes/index.tsx';
 
@@ -26,7 +28,9 @@ const manifest = {
     './routes/blog/codeaholic.tsx': $blog_codeaholic,
     './routes/blog/gold_or_led.tsx': $blog_gold_or_led,
     './routes/blog/invester-i-produktet.tsx': $blog_invester_i_produktet,
-    './routes/blog/painting.tsx': $blog_painting,
+    './routes/blog/painting/2025-aug-oct.tsx': $blog_painting_2025_aug_oct,
+    './routes/blog/painting/2025-nov-dec.tsx': $blog_painting_2025_nov_dec,
+    './routes/blog/painting/index.tsx': $blog_painting_index,
     './routes/blog/skiguide.tsx': $blog_skiguide,
     './routes/index.tsx': $index,
   },
