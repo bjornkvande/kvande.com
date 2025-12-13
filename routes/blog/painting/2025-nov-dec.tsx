@@ -119,7 +119,7 @@ export default function Blog() {
       <S>
         <H3>4. december 2025 - il bassista</H3>
         <p>
-          I had a picture of a friend playing a fretless bass. The positure was quite
+          I had a picture of a friend playing a fretless bass. The posture was quite
           complex, but I wanted to have a go. I sketched it out with a pencil to get the
           proportions and balance correct, followed loosely with a pen for a more organic
           and messy look. I erased the pencil, and then colored it with water colors. I
