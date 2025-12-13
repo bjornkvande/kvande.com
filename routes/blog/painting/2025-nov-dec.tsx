@@ -104,13 +104,14 @@ export default function Blog() {
       <S>
         <H3>27. november 2025 - first attempt made proper</H3>
         <p>
-          I wanted to try a proper attempt at the quit portrait I made four weeks earlier.
-          Very happy with this. The likeness is very good, and I just love how the glasses
-          turned out. I was afraid I would mess up the hair (with alcohol markers you can
-          not fix mistakes very easily) and have it not look blond, but it ended up nice
-          and fluffy. The shadows under the nose and chin also worked out. I dade a couple
-          of mistakes but you have to look for them yourself. Pencil and alcohol markers
-          with a dash of white marker at the end (glasses and shirt button).
+          I wanted to try a proper attempt at the quick portrait I made four weeks
+          earlier. Very happy with this. The likeness is very good, and I just love how
+          the glasses turned out. I was afraid I would mess up the hair (with alcohol
+          markers you can not fix mistakes very easily) and have it not look blond, but it
+          ended up nice and fluffy. The shadows under the nose and chin also worked out. I
+          dade a couple of mistakes but you have to look for them yourself. Pencil and
+          alcohol markers with a dash of white marker at the end (glasses and shirt
+          button).
         </p>
         <I src='/paintings/stian.jpg' />
       </S>
