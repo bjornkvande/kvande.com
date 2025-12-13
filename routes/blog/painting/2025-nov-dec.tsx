@@ -2,7 +2,7 @@ import { BlogPage } from '../../../components/BlogPage.tsx';
 
 export default function Blog() {
   return (
-    <BlogPage title='L`orso disegna'>
+    <BlogPage title='L`orso disegna' href='/blog/painting'>
       <S>
         <H2>November - December, 2025</H2>
         <P>

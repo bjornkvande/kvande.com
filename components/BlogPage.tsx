@@ -5,12 +5,16 @@ export function BlogPage(
     title: string;
     ingress?: string;
     date?: string;
+    href?: string;
     children: JSX.Element | JSX.Element[];
   },
 ) {
   return (
     <div className="max-w-3xl mx-auto px-4 py-12">
-      <h1 className="text-center my-8">{props.title}</h1>
+      {props.href 
+        ? (<a href={props.href}><h1 className="text-center my-8">{props.title}</h1></a>) 
+        : (<h1 className="text-center my-8">{props.title}</h1>)
+      }
       {props.ingress && (
         <div className="text-lg text-center text-gray-700">
           {props.ingress}
